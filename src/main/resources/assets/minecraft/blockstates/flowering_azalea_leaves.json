@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "snowy=false": { "model": "block/flowering_azalea_leaves" },
+        "snowy=true": { "model": "snowy:block/snowy_flowering_azalea_leaves" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "snowy:block/snowy_leaves",
+    "textures": {
+        "all": "snowy:block/snowy_spruce_leaves"
+    }
+}

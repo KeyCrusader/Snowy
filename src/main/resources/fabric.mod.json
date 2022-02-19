@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "snowy",
+  "version": "${version}",
+  "name": "Snowy",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/snowy/snowy.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [],
+    "main": []
+  },
+  "mixins": [
+    "snowy.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.2",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}

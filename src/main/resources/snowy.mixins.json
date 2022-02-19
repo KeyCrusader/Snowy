@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "keycrusader.snowy.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "LeavesBlockMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
